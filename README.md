@@ -1,2 +1,2 @@
 # wallzk_DeepLearn_doc
-A document for Learning/Review a Deep Learning Methods
+A documentation for Learning/Review a Deep Learning Methods
